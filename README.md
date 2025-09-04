@@ -46,6 +46,16 @@ src/
 2. After Search
 ![alt text](image-1.png)
 
+## 🤖 LLM Assistance
+
+This project was developed with the assistance of a Large Language Model (ChatGPT).  
+The LLM was used to:
+- Debug configuration issues with TailwindCSS (v4) and PostCSS.  
+- Guide setup and deployment on CodeSandbox.  
+
+By leveraging an LLM, the development process was faster and more reliable, ensuring best practices were followed.
+
+
 ## ✅ Future Improvements
 
 If given more time, the app can be extended with:
